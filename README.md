@@ -15,6 +15,14 @@
  - SweetAlert
  - Bootstrap Template SB Admin 2
  - FontAwesome
+ 
+ ## Screenshot 
+
+<img src="public/img/login&register.png" alt="Halamanlogin&register">
+<img src="public/img/register.png" alt="Halamanregister">
+<img src="public/img/login.png" alt="Halamanlogin">
+
+
 
 ## :open_book: How To Use
 1.  Clone this repository
