@@ -99,9 +99,6 @@ class KategoriController extends Controller
         // Hapus data pada tabel "kategori"
         Kategori::destroy($id);
 
-        // Perbarui referensi foreign key pada tabel lain jika ada
-        // ...
-
         return redirect()->route('kategori')->with('success', 'Kategori berhasil dihapus.');
     }
 }
